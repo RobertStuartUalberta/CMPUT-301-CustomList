@@ -1,3 +1,8 @@
+/**
+ * Basic Structure and code from Lab 6 Demo.
+ */
+
+
 package com.example.simpleparadox.listycity;
 
 import androidx.appcompat.app.AppCompatActivity;
